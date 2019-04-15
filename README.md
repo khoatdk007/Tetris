@@ -1,1 +1,2 @@
 # Tetris
+Are you ready ?
